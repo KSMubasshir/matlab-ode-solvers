@@ -14,7 +14,7 @@ In mathematics and computational science, [**Heun's method**](https://en.wikiped
 ### Ralston Method
 [Ralston's second order method](http://www.mymathlib.com/diffeq/runge-kutta/runge_kutta_ralston_2.html) is a Runge-Kutta method for approximating the solution of the initial value problem which evaluates the integrand twice for each step. Ralston's second order method is a second order procedure for which Richardson extrapolation can be used.
 ### Midpoint Method
-The m[idpoint method](https://www.efunda.com/math/num_ode/num_ode.cfm#:~:text=The%20midpoint%20method%2C%20also%20known,the%20accuracy%20by%20one%20order.), also known as the second-order Runga-Kutta method, improves the Euler method by adding a midpoint in the step which increases the accuracy by one order.
+The [midpoint method](https://www.efunda.com/math/num_ode/num_ode.cfm#:~:text=The%20midpoint%20method%2C%20also%20known,the%20accuracy%20by%20one%20order.), also known as the second-order Runga-Kutta method, improves the Euler method by adding a midpoint in the step which increases the accuracy by one order.
 
 ### Comparison of Algorithms
 ![ode_methods_comparison](images/ode_methods_comparison.jpg)
