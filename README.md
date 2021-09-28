@@ -1,4 +1,4 @@
-# matlab-ode-solvers
+# ode-solvers
 A MATLAB implementation of Ordinary Differential Equation solving algorithms(Euler, Huen, Ralston, Mid Point)  
 ## ODE
 In mathematics, an [**ordinary differential equation**](https://en.wikipedia.org/wiki/Ordinary_differential_equation) (ODE) is a differential equation containing one or more functions of one independent variable and the derivatives of those functions. The term ordinary is used in contrast with the term partial differential equation which may be with respect to more than one independent variable
